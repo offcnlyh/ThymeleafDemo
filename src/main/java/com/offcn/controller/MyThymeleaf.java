@@ -1,4 +1,4 @@
-package com.offcn;
+package com.offcn.controller;
 
 
 import org.springframework.stereotype.Controller;
